@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Afjal Hossain</h1>
-<h3 align="center">I am a backend developer with over 9 years of experience in leading and deploying mission-critical projects using Scrum and CI/CD. Skilled in Python, Java, Golang, Spring Boot, Postgres, Hadoop, MongoDb, Kubernetes, and more, I excel in developing scalable microservices and distributed systems. I thrive on integrating AI/ML into various industries and have a proven track record with complex solutions. Let's connect and discuss how I can contribute to your team's success!</h3>
+<h3 align="center">I am a backend developer with over 9 years of experience in leading and deploying mission-critical projects using Scrum and CI/CD. I excel in developing scalable microservices and distributed systems. I thrive on integrating AI/ML into various industries and have a proven track record with complex solutions.</h3>
 
 <p align="left"> <a href="https://twitter.com/smafjal" target="blank"><img src="https://img.shields.io/twitter/follow/smafjal?logo=twitter&style=for-the-badge" alt="smafjal" /></a> </p>
 
