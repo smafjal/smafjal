@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Afjal Hossain</h1>
-<h5>I am a backend developer with over 9 years of experience in leading and deploying mission-critical projects using Scrum and CI/CD. I excel in developing scalable microservices and distributed systems. I thrive on integrating AI/ML into various industries and have a proven track record with complex solutions.</h5>
+<h5>Experienced Software Engineer with 9+ years in scalable distributed systems, FinTech payment solutions, and AI/ML integration. Skilled in Java, Python, Go, AWS, delivering efficient, high-impact projects..</h5>
 
 <p align="left"> <a href="https://twitter.com/smafjal" target="blank"><img src="https://img.shields.io/twitter/follow/smafjal?logo=twitter&style=for-the-badge" alt="smafjal" /></a> </p>
 
