@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Afjal Hossain</h1>
-<h5>Experienced Software Engineer with 9+ years in scalable distributed systems, FinTech payment solutions, and AI/ML integration. Skilled in Java, Python, Go, AWS, delivering efficient, high-impact projects.</h5>
+<h5>
+  I am an experienced Software Engineer with over 9 years in scalable distributed systems, FinTech payment solutions, and payment gateway development. I specialize in AI/ML integration and have expertise in Java, Python, Go, and AWS. I focus on delivering efficient, high-impact projects and have hands-on experience in machine learning and NLP, always striving to build robust, innovative solutions and stay on the cutting edge of technology.
+</h5>
 
 <p align="left">
   <a href="https://twitter.com/smafjal" target="blank">
@@ -13,11 +15,11 @@
   <div style="flex: 1 1 45%; padding: 10px;">
     <h3>Connect with me:</h3>
     <p>
-      <a href="https://twitter.com/smafjal" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="smafjal" height="30" width="40" />
-      </a>
       <a href="https://linkedin.com/in/smafjal" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smafjal" height="30" width="40" />
+      </a>
+      <a href="https://twitter.com/smafjal" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="smafjal" height="30" width="40" />
       </a>
       <a href="https://www.leetcode.com/smafjal" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="smafjal" height="30" width="40" />
