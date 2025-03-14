@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Afjal Hossain</h1>
 <h5>
-  I am an experienced Software Engineer with over 9 years in scalable distributed systems, FinTech payment solutions, and payment gateway development. I specialize in AI/ML integration and have expertise in Java, Python, Go, and AWS. I focus on delivering efficient, high-impact projects and have hands-on experience in machine learning and NLP, always striving to build robust, innovative solutions and stay on the cutting edge of technology.
+  I am an experienced Software Engineer with over 9 years in scalable distributed systems, FinTech payment solutions, and payment gateway development. I specialize in AI/ML integration and have expertise in Python, Go, Java and AWS. I focus on delivering efficient, high-impact projects and have hands-on experience in machine learning and NLP, always striving to build robust, innovative solutions and stay on the cutting edge of technology.
 </h5>
 
 <p align="left">
