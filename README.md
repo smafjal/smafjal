@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md Afjal Hossain</h1>
 <h5>
-  I began my journey as a Software Engineer working on a search engine project, which sparked my passion for machine learning. This led me to contribute to NLP research and development, eventually transitioning into an ML Engineer role. Over time, I focused on optimizing and scaling ML pipelines, which opened the door to working with teams handling hundreds of TPS for millions of customers. Through this, I gained deep insights into FinTech systems and payment gateway integration. This experience laid the foundation for my current work—building and developing secure, high-performance payment gateways.
+  I was first introduced to programming through ACM and programming contests after getting admitted to a Computer Science major. My curiosity led me to participate in several national contests like ICPC and NCPC, where I learned how to think critically and solve problems efficiently. This foundation paved the way for my journey as a Software Engineer, where I worked on a search engine project that sparked my passion for machine learning.
+
+Driven by this passion, I contributed to NLP research and development, eventually transitioning into an ML Engineer role. Over time, I specialized in optimizing and scaling ML pipelines, which led to opportunities to work with teams handling services with hundreds of transactions per second for millions of users. Through these experiences, I gained deep expertise in FinTech systems and large-scale payment gateway integrations, supporting business growth and scaling services seamlessly. This journey laid the foundation for my current focus: building secure, high-performance payment gateways.
 </h5>
 
 <p align="left">
